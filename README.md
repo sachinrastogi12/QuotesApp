@@ -1,6 +1,6 @@
 # QuotesApp
 
-Live - https://cheery-rugelach-1494a4.netlify.app/
+[Live Demo](https://cheery-rugelach-1494a4.netlify.app/)
 
 # How to start the application
 * run commands - npm install & npm start
