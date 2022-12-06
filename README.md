@@ -8,7 +8,7 @@
 ## Random Advice is commning from website using GET request
 * [Link](https://api.adviceslip.com/)
 
-### Random Advice
+### Random Advice API
 #### Returns a random advice slip as a slip object. And a slip object is a simple piece of advice.
 
 * [Link](https://api.adviceslip.com/advice)
